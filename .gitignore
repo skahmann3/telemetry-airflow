@@ -3,6 +3,10 @@
 *undo-tree~
 *.un~
 venv
+.vscode
+.cache
+.pytest_cache
+__pycache__
 
 logs
 unittests.cfg
